@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trata Yantra</string>
+    <string name="app_title">🔥 Trata Yantra - Monitor</string>
+    <string name="gas_level">Gas Level: %1$s %%</string>
+    <string name="leak_status">Leak Status: %1$s</string>
+    <string name="tilt_status">Tilt: %1$s</string>
+    <string name="refresh_button">Refresh Sensor Data</string>
+</resources>
